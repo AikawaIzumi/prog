@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\GS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js01"
+	}
+}
